@@ -34,3 +34,4 @@ Ele será enviado para uma página onde lhe será informado que a marca ou a cat
 ## Autores
 
 * [_Leonardo Rocha_](https://github.com/LeonardoRochaMarista)
+* [_Samuel Camargo_](https://github.com/SamuelCmdeFarias)
